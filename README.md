@@ -4,7 +4,7 @@
 
 ![FORMULARIO!](FORMULARIO.jpg)
 
-Codigo se encuentra en index.php y style.css
+Codigo se encuentra en prueba/index.php y prueba/style.css
 
 Los datos en: datos.sql
 
